@@ -44,8 +44,8 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
-Name:Naveen Kumar V
-Reg no: 212221230068
+# Name: Naveen Kumar V
+# Reg no: 212221230068
 ```
 using System.Collections;
 using System.Collections.Generic;
